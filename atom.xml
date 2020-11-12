@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/gjldragon/gaojilong.github.io</id>
+    <id>https://gaojilong.github.io</id>
     <title>高积龙的个人博客</title>
-    <updated>2020-11-12T10:18:45.318Z</updated>
+    <updated>2020-11-12T10:20:29.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/gjldragon/gaojilong.github.io"/>
-    <link rel="self" href="https://github.com/gjldragon/gaojilong.github.io/atom.xml"/>
+    <link rel="alternate" href="https://gaojilong.github.io"/>
+    <link rel="self" href="https://gaojilong.github.io/atom.xml"/>
     <subtitle>高积龙的个人博客</subtitle>
-    <logo>https://github.com/gjldragon/gaojilong.github.io/images/avatar.png</logo>
-    <icon>https://github.com/gjldragon/gaojilong.github.io/favicon.ico</icon>
+    <logo>https://gaojilong.github.io/images/avatar.png</logo>
+    <icon>https://gaojilong.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 高积龙的个人博客</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/gjldragon/gaojilong.github.io/post/hello-gridea/</id>
-        <link href="https://github.com/gjldragon/gaojilong.github.io/post/hello-gridea/">
+        <id>https://gaojilong.github.io/post/hello-gridea/</id>
+        <link href="https://gaojilong.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
