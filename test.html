@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="./js/vue.js">
+			
+		</script>
+	</head>
+	<body>
+		<div id="app">
+			{{scode}}<br>
+			随机数字：{{rmd}}
+		</div>
+		<script type="text/javascript">
+			let a = new Vue({
+				el:'#app',
+				data(){
+					return{
+						scode:'44',
+						rmd:Math.floor(Math.random()*100)
+					}
+				}
+			})
+		</script>
+	</body>
+</html>
